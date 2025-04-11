@@ -1,7 +1,7 @@
 {
     "name": "com.tnatus.tools",
     "version": "1.0.0",
-    "displayName": "Useful Unity Editor Tools",
+    "displayName": "Tnatus's Editor Tools",
     "description": "Useful editor tools for all unity projects",
     "unity": "2022.3",
     "author": {
