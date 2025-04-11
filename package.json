@@ -1,0 +1,12 @@
+{
+    "name": "com.tnatus.tools",
+    "version": "1.0.0",
+    "displayName": "Useful Unity Editor Tools",
+    "description": "Useful editor tools for all unity projects",
+    "unity": "2022.3",
+    "author": {
+        "name": "Tnatus",
+        "email": "rgh4806@gmail.com",
+        "url": "https://github.com/Tnatus/Unity.Tools"
+    }
+}
